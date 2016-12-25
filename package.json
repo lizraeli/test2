@@ -1,6 +1,5 @@
 {
   "name": "simple-react-setup",
-  "homepage":"https://lizraeli.github.io/test2/",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
